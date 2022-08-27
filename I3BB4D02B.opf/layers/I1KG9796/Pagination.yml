@@ -1,0 +1,10 @@
+id: d611b06b49c942dfab3bdbc2aeb1a4be
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  7d9dcc1afe064690af272a6fd899ef13:
+    span:
+      start: 0
+      end: 865
+    imgnum: 1
+    reference: I1KG97960001.jpg
