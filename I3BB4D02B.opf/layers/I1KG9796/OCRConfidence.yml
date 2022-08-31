@@ -1,8 +1,8 @@
-id: c6347aefb13646ea8ac04105b8680957
+id: 8680da04cea842c0abc5674677d49c74
 annotation_type: OCRConfidence
 revision: '00001'
 annotations:
-  01898ad80d9e4d39a4b6d04ff43ca6fc:
+  75f315851bf645c4b49cff917e365295:
     span:
       start: 0
       end: 865
